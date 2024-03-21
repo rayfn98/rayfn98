@@ -3,3 +3,7 @@ Hi, this is my github special repository for introducing me.
 
 ## Develop
 Focused in Web projects
+
+## Languages
+- Spanish
+- English

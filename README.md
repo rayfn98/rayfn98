@@ -14,3 +14,7 @@ React, Svelte, Go
 - Spanish
 - English
 
+## Hobbies
+- Playing guitar
+- Drawing
+- Visiting landscapes
